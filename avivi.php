@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Summary of Baso
+ */
 class Baso
 {
     public $nama;
